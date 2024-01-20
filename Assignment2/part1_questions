@@ -1,0 +1,11 @@
+Exercise 1:
+    getForEntity gets a representation of the entity by getting the url and converts it into a ResponseEntity
+
+Exercise 2:
+    postForObject
+    patchForObject
+    put
+
+Exercise 3:
+    equalTo checks that the string is equal to the response
+    assertThat asserts that equalTo produces true
